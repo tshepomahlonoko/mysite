@@ -1,0 +1,174 @@
+body{
+    background-color: #EFFFFB;
+    margin: 0;
+    text-align: center;
+}
+
+h1{
+    color: #66BFBF;
+    font-family: 'Amatic SC', cursive;
+    font-size: 9.375rem;
+    margin: 0;
+    line-height: 0.75;
+}
+
+h2{
+    color: #66BFBF;
+    font-family: 'Amatic SC', cursive;
+    font-size: 4.5rem;
+    font-weight: normal;
+    margin-top: 50px;
+}
+
+.subheading{
+    color: #66BFBF;
+    font-family: 'Saira Semi Condensed', sans-serif;
+    font-size: 1.875rem;
+    font-weight: normal;
+}
+
+h3{
+    color: #11999E;
+    font-family: 'Amatic SC', cursive;
+    font-size: 2.5rem;
+}
+
+p{
+    color: #006A71;
+    font-family: 'Saira Semi Condensed', sans-serif;
+    font-size: 20px;
+    width: 50%;
+    position: relative;
+    margin: auto;
+}
+hr{
+    width: 10%;
+    border-color: #D8D2CB;
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 10px;
+    margin-top: 50px;
+    
+}
+
+.top_container{
+    background-color: white;
+    padding-top: 100px;
+
+}
+
+.middle_container{
+    background-color: #F2FFE9;
+    padding-top: 100px;
+    padding-bottom: 50px;
+}
+
+.bottom_container{
+    background-color: #66BFBF;
+    padding-top: 20px;
+}
+.contact_me{
+    margin-bottom: 50px;
+}
+
+.sun_img{
+    position: absolute;
+    top: 50px;
+    right: 20px;
+}
+
+.bottom_cloud{
+    position: absolute;
+    left: 100px;
+    top: 250px;
+}
+
+.mountain{
+    position: relative;
+    top: 5px;
+    width: 50%;
+    
+}
+
+.avatar{
+    height: 150px;
+    width: 150px;
+}
+
+.copyright{
+    color: white;
+    font-size: 14px;
+    margin-top: 20px;
+}
+
+.web_design{
+    width: 25%;
+    float: left;
+    padding-right: 30px;
+}
+
+.web_dev{
+    width: 25%;
+    float: right;
+    padding-left: 30px;
+}
+
+.digital_marketing{
+    width: 25%;
+    float: left;
+    padding-right: 30px;
+}
+
+.contact{
+    height: 100px;
+    width: 100px;
+}
+
+.contact_description{
+    width: 40%;
+    margin: 50px auto 50px auto;
+}
+
+.skill_row{
+    margin: 100px auto 100px auto;
+    width: 50%;
+    text-align: left;
+    line-height: 2;    
+}
+
+a{
+    color: gray;
+    font-family: 'Saira Semi Condensed', sans-serif;
+    font-size: 1.75rem;
+    padding-inline: 30px;
+    text-decoration: none;
+}
+a:hover{
+    color: white;
+}
+.btn {
+    background: #11cdd4;
+    background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -o-linear-gradient(top, #11cdd4, #11999e);
+    background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+    -webkit-border-radius: 8;
+    -moz-border-radius: 8;
+    border-radius: 8px;
+    font-family: 'Saira Semi Condensed', sans-serif;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+}
+
+  .btn:hover {
+    background: #30e3cb;
+    background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+    text-decoration: none;
+}
